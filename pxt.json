@@ -1,0 +1,11 @@
+{
+    "name": "pxt-ciberseguridad-es",
+    "description": "Bloques del cortafuegos en español para el mapa Daring Defense de Minecraft Education",
+    "dependencies": {
+    },
+    "files": [
+        "custom.ts",
+        "cyber_kingdom.ts",
+        "README.md"
+    ]
+}
